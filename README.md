@@ -1,10 +1,16 @@
 # 💫 About Me:
 👋 Hi, I’m @ShabanMughal
+
 👀 I’m a frontend developer at AlimcoSoft, working on large-scale projects using React Native and Next.js.
+
 🌱 I’m currently enhancing my skills in Redux, React.js, and advanced JavaScript while exploring the Future framework.
+
 💞️ I’m open to collaborating on innovative projects in React.js, React Native, game development, and UI/UX design.
+
 📫 You can reach me via email at thandermughal@gmail.com or on Instagram at thunder_senpai_22.
+
 😄 Pronouns: He/Him
+
 ⚡ Fun fact: I’m passionate about creating immersive user experiences, and I love turning ideas into reality through projects like a Punishing Gray Raven game website clone, a 3D iPhone model, and a dynamic movie app.
 
 ## 🌐 Socials:
