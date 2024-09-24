@@ -1,6 +1,11 @@
 # 💫 About Me:
-👋 Hi, I’m @ShabanMughal<br>👀 I’m interested in frontend development, UI design, and video editing. I’m passionate about building dynamic web applications and exploring new technologies.<br>🌱 I’m currently learning Redux for React.js, enhancing my skills in advanced JavaScript, and planning to study the Future framework.<br>💞️ I’m looking to collaborate on exciting projects related to React.js, game development, and innovative web applications.<br>📫 How to reach me by gmail: thandermughal@gmail.com || by instagram: https://www.instagram.com/thunder_senpai_22/<br>😄 Pronouns: He/Him<br>⚡ Fun fact: I’ve built a Punishing Gray Raven game website clone, a 3D iPhone model project, and a movie app, and I love exploring new ways to create engaging user experiences.
-
+👋 Hi, I’m @ShabanMughal
+👀 I’m a frontend developer at AlimcoSoft, working on large-scale projects using React Native and Next.js.
+🌱 I’m currently enhancing my skills in Redux, React.js, and advanced JavaScript while exploring the Future framework.
+💞️ I’m open to collaborating on innovative projects in React.js, React Native, game development, and UI/UX design.
+📫 You can reach me via email at thandermughal@gmail.com or on Instagram at thunder_senpai_22.
+😄 Pronouns: He/Him
+⚡ Fun fact: I’m passionate about creating immersive user experiences, and I love turning ideas into reality through projects like a Punishing Gray Raven game website clone, a 3D iPhone model, and a dynamic movie app.
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/f4QuGEfA) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/profile.php?id=100092369052667&mibextid=ZbWKwL) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/thunder_senpai_22) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shaban-mughal-27386a2a9) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/thandermughal) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@thunder_senpai22) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ThunderMughalyt) 
