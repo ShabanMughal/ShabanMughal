@@ -15,7 +15,7 @@
  
  🔭 I’m currently working on **a Software company**
 
- 🌱 I’m currently learning **React Native, Three.js, Next.js**
+ 🌱 I’m currently learning **React Native, Three.js and Next.js**
 
  💬 Ask me about **React, Firebase, Node.js, or anything [here](https://github.com/ShabanMughal/readme/issues)**
 
