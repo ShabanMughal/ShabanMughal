@@ -13,7 +13,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **a Software company**
+ 🔭  I’m currently **open for work**
 
  🌱 I’m currently learning **React Native, Three.js and Next.js**
 
