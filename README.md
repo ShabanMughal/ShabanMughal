@@ -1,7 +1,3 @@
-<div align='right'>
-    
-[![](https://visitcount.itsvg.in/api?id=ShabanMughal&icon=0&color=0)](https://visitcount.itsvg.in)
-</div>
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Pacifico&size=40&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Shaban+Mughal!;" />
