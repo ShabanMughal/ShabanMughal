@@ -13,7 +13,7 @@
 
  🌱 I’m currently learning **React Native, Three.js and Next.js**
 
- 💬 Ask me about **React, Firebase, Node.js, or anything [here](https://github.com/ShabanMughal/readme/issues)**
+ 💬 Ask me about **React, Firebase, Node.js, or anything [here](https://github.com/ShabanMughal/ShabanMughal/issues)**
 
  ⚡ Fun fact **I admire animations, 3D models, and building games is my dream goal**
 
