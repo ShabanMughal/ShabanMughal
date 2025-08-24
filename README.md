@@ -11,7 +11,7 @@
  
  🔭  I’m currently **open for work**
 
- 🌱 I’m currently learning **React Native, Three.js and Next.js**
+ 🌱 I’m currently learning **Nest.js, Three.js and Anime.js**
 
  💬 Ask me about **React, Firebase, Node.js, or anything [here](https://github.com/ShabanMughal/ShabanMughal/issues)**
 
