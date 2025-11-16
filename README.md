@@ -71,5 +71,13 @@
 
 <br/>
 
+<p align="center" style="display: flex;">
+    <strong>
+  You are my 
+    </strong>
+  <img style="height: auto; width: 70%;" src="https://count.getloli.com/get/@ShabanMughal?theme=rule34" alt="visitor count" />
+ <strong>visitor</strong> 
+</p>
+
 
 <br/>
