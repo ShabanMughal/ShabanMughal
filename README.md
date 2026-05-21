@@ -71,6 +71,28 @@
 
 <br/>
 
+<hr/>
+
+<h2 align="center">👨‍💻 Me vs. the AI Era</h2>
+
+
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <img src="sukuna_won.png" width="320" alt="AI will replace developers" />
+      <br/>
+      <sub><strong>"AI will replace developers."</strong></sub>
+    </td>
+    <td align="center" width="50%">
+      <img src="nah_id_won.jpg" width="320" alt="Nah, I'd win" />
+      <br/>
+      <sub><strong>"Then why am I still shipping?"</strong></sub>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
 <p align="center" style="display: flex;">
     <strong>
   You are my 
